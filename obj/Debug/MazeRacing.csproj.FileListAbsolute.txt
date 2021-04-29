@@ -1,0 +1,10 @@
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\bin\Debug\MazeRacing.exe.config
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\bin\Debug\MazeRacing.exe
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\bin\Debug\MazeRacing.pdb
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.csprojAssemblyReference.cache
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.Form1.resources
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.Properties.Resources.resources
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.csproj.GenerateResource.cache
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.csproj.CoreCompileInputs.cache
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.exe
+D:\Курсач 2 курс 2021\maze racing\MazeRacing\MazeRacing\obj\Debug\MazeRacing.pdb
