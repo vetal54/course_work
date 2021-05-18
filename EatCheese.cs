@@ -22,25 +22,25 @@ namespace MazeRacing
                 {
                     if (delta.X < 0 && currentAnimation == 3 && picture.Location.Y + picture.Height > currObject.position.Y && picture.Location.Y + picture.Size.Height / 100 < currObject.position.Y + currObject.size.Height)
                     {
-                        picture.Location = new Point(picture.Location.X - 6, picture.Location.Y);
+                        //picture.Location = new Point(picture.Location.X - 6, picture.Location.Y);
                         return true;
                        
                     }
                     if (delta.X > 0 && currentAnimation == 1 && picture.Location.Y + picture.Height > currObject.position.Y && picture.Location.Y + picture.Size.Height / 100 < currObject.position.Y + currObject.size.Height)
                     {
-                        picture.Location = new Point(picture.Location.X + 6, picture.Location.Y);
+                        //picture.Location = new Point(picture.Location.X + 6, picture.Location.Y);
                         return true;
                        
                     }
                     if (delta.Y < 0 && currentAnimation == 2 && picture.Location.X + picture.Width > currObject.position.X && picture.Location.X + picture.Size.Width / 100 < currObject.position.X + currObject.size.Width)
                     {
-                        picture.Location = new Point(picture.Location.X, picture.Location.Y - 6);
+                        //picture.Location = new Point(picture.Location.X, picture.Location.Y - 6);
                         return true;
 
                     }
                     if (delta.Y > 0 && currentAnimation == 0 && picture.Location.X + picture.Width > currObject.position.X && picture.Location.X + picture.Size.Width / 100 < currObject.position.X + currObject.size.Width)
                     {
-                        picture.Location = new Point(picture.Location.X, picture.Location.Y + 6);
+                        //picture.Location = new Point(picture.Location.X, picture.Location.Y + 6);
 
                         return true;
                     }

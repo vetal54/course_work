@@ -56,6 +56,7 @@
     <Compile Include="Hero.cs" />
     <Compile Include="Map.cs" />
     <Compile Include="MapEntity.cs" />
+    <Compile Include="PCplayer.cs" />
     <Compile Include="Physics.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />

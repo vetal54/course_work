@@ -8,15 +8,19 @@ using System.Windows.Forms;
 
 namespace MazeRacing
 {
-    public class Hero
+    abstract class Hero
     {
-        public   Image Img;
+        public Image Img;
 
-        public  string Name { get; set; }
+        public string Name { get; set; }
 
-        public void ToString()
+        public virtual void ToString()
         {
             MessageBox.Show("Ви граете за - " + Name);
         }
+
+        public abstract void KeyBoard(PictureBox picture, int currentAnimation);
+
+        
     }
 }
